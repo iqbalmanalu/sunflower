@@ -18,13 +18,13 @@ package com.google.samples.apps.sunflower.ui
 
 import androidx.compose.ui.graphics.Color
 
-val md_theme_light_primary = Color(0xFFFFF2D8)
+val md_theme_light_primary = Color(0xFF85621C)
 val md_theme_light_onPrimary = Color(0xFFFFFFFF)
-val md_theme_light_primaryContainer = Color(0xFFF5E8B7)
+val md_theme_light_primaryContainer = Color(0xFF7E3808)
 val md_theme_light_onPrimaryContainer = Color(0xFF062100)
 val md_theme_light_secondary = Color(0xFF78C1F3)
 val md_theme_light_onSecondary = Color(0xFFFFFFFF)
-val md_theme_light_secondaryContainer = Color(0xFFD8E7CB)
+val md_theme_light_secondaryContainer = Color(0xFFE7DFCB)
 val md_theme_light_onSecondaryContainer = Color(0xFF131F0D)
 val md_theme_light_tertiary = Color(0xFF386667)
 val md_theme_light_onTertiary = Color(0xFFFFFFFF)
